@@ -1,5 +1,5 @@
 # 💫 Hi! I'm Ugo, a Full Stack Developer:
-I completed my first internship and I am actively searching for a Front-End or Fullstack Developper position. <br>I am very motivated and excited to take on new challenges and learn new things.<br>
+I completed my first internship and I am actively searching for a Front-End Developper position. <br>I am very motivated and excited to take on new challenges and learn new things.<br>
 <br>
 Feel free to contact me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ugo-theveny/) !
 
